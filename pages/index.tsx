@@ -1,0 +1,1 @@
+export default function Home() { return <div>Sturgeon AI Dashboard</div>; }
